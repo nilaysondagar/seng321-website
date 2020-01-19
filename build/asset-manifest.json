@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/seng321/static/css/main.adb52991.chunk.css",
+    "main.js": "/seng321/static/js/main.529c27a2.chunk.js",
+    "main.js.map": "/seng321/static/js/main.529c27a2.chunk.js.map",
+    "runtime~main.js": "/seng321/static/js/runtime~main.3cd38c15.js",
+    "runtime~main.js.map": "/seng321/static/js/runtime~main.3cd38c15.js.map",
+    "static/js/2.4ba28aa2.chunk.js": "/seng321/static/js/2.4ba28aa2.chunk.js",
+    "static/js/2.4ba28aa2.chunk.js.map": "/seng321/static/js/2.4ba28aa2.chunk.js.map",
+    "index.html": "/seng321/index.html",
+    "precache-manifest.e0aacab8c2566b8d831ffd1474507fa3.js": "/seng321/precache-manifest.e0aacab8c2566b8d831ffd1474507fa3.js",
+    "service-worker.js": "/seng321/service-worker.js",
+    "static/css/main.adb52991.chunk.css.map": "/seng321/static/css/main.adb52991.chunk.css.map",
+    "static/media/cityImage.jpg": "/seng321/static/media/cityImage.50cb8342.jpg",
+    "static/media/emailImage.png": "/seng321/static/media/emailImage.bb18bdbb.png",
+    "static/media/facebookLogoImage.png": "/seng321/static/media/facebookLogoImage.5d6ea38a.png",
+    "static/media/ferryImage.jpeg": "/seng321/static/media/ferryImage.655b17f2.jpeg",
+    "static/media/memeImage.jpg": "/seng321/static/media/memeImage.a60ff832.jpg",
+    "static/media/nilayHeadshot.jpg": "/seng321/static/media/nilayHeadshot.fc386bca.jpg",
+    "static/media/rfp.pdf": "/seng321/static/media/rfp.cff24bbf.pdf",
+    "static/media/snowplowImage.jpg": "/seng321/static/media/snowplowImage.0579c30e.jpg",
+    "static/media/twitterLogoImage.png": "/seng321/static/media/twitterLogoImage.91c116d0.png"
+  }
+}
