@@ -33,28 +33,28 @@ export class Navigation extends Component {
 
     return (
       <SlidingDownBox className="navigation" pose={navigationClassNames}>
-        <NavLink className="navigation__title" to={routes.HOME}>Nilay Sondagar</NavLink>
+        <NavLink className="navigation__title" to={routes.HOME}>City of Letterkenny</NavLink>
         <div className="navigation__links">
           <NavLink 
             className="navigation__links__link" 
-            activeClassName="navigation__links__link--experience-active"
-            to={routes.EXPERIENCE}
+            activeClassName="navigation__links__link--our-team-active"
+            to={routes.OUR_TEAM}
           >
-            Experiences
+            Our Team
           </NavLink>
           <NavLink 
             className="navigation__links__link" 
-            activeClassName="navigation__links__link--projects-active"
-            to={routes.PROJECTS}
+            activeClassName="navigation__links__link--rfps-active"
+            to={routes.RFPS}
           >
-            Projects
+            RFPs
           </NavLink>
           <NavLink 
             className="navigation__links__link" 
-            activeClassName="navigation__links__link--designs-active"
-            to={routes.DESIGNS}
+            activeClassName="navigation__links__link--contact-active"
+            to={routes.CONTACT}
           >
-            Design
+            Contact
           </NavLink>
         </div>
       </SlidingDownBox>

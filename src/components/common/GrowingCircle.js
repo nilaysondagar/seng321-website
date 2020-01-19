@@ -2,19 +2,19 @@ import posed from 'react-pose';
 
 export default posed.img({
   hidden: { 
-    width: 0,
-    height: 0,
+    width: "20vmax",
+    height: "20vmax",
     opacity: 0
   },
   visible: { 
-    width: '15vmax',
-    height: '15vmax',
+    width: "20vmax",
+    height: "20vmax",
     opacity: 1,
     transition: { duration: 500 } 
   }
 });
 
-export const GrowingCircleClassNames = {
+export const FadingCircleClassNames = {
   HIDDEN: 'hidden',
   VISIBLE: 'visible'
 };

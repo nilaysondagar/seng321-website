@@ -1,9 +1,9 @@
 export const BASENAME = '/';
 export const HOME = '/';
-export const EXPERIENCE = '/experience';
-export const DESIGNS = '/designs';
-export const PROJECTS = '/projects';
-export const PROJECT_CSC = `${PROJECTS}/csc`;
-export const PROJECT_USESAFER = `${PROJECTS}/usesafer`;
-export const PROJECT_HS_GMB = `${PROJECTS}/hootsuite-gmb`;
-export const PROJECT_ESS = `${PROJECTS}/uvic-ess`;
+export const OUR_TEAM = '/our-team';
+export const CONTACT = '/contact';
+export const RFPS = '/rfps';
+export const PROJECT_CSC = `${RFPS}/csc`;
+export const PROJECT_USESAFER = `${RFPS}/usesafer`;
+export const PROJECT_HS_GMB = `${RFPS}/hootsuite-gmb`;
+export const PROJECT_ESS = `${RFPS}/uvic-ess`;

@@ -4,7 +4,7 @@
   min-width: $min-site-width;
   align-items: center;
   padding: 20px;
-  background-color: $blue-2-color;
+  background-color: $black-color;
 
   &__title {
     width: 100%;
@@ -28,7 +28,7 @@
 
   &__links {
     display: flex;
-    width: 100%;
+    width: 80%;
     height: 100%;
     font-weight: 300;
     justify-content: space-evenly;
@@ -43,16 +43,16 @@
       margin: 0 10px;
       transition: 0.35s ease-in;
 
-      &--experience-active {
+      &--our-team-active {
         color: $blue-3-color;
       }
 
-      &--projects-active {
-        color: $red-color;
+      &--rfps-active {
+        color: $blue-3-color;
       }
 
-      &--designs-active {
-        color: $green-color;
+      &--contact-active {
+        color: $blue-3-color;
       }
 
     }
