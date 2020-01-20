@@ -39,7 +39,7 @@ export class HomePage extends Component {
           <div className="home__row">
             <p className="home__text">
               Welcome to the City of Letterkenny! We are the home of skating, snowboarding, and lots
-              of snow! We are located in the province of Alberta, just off tto the east of Calgary. Our
+              of snow! We are located in the province of Alberta, just off to the east of Calgary. Our
               city is unparalleled in beauty, and in snowfall. We've received the most snow in Canada for
               the last 4 years.
             </p>
